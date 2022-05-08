@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+D:\adt-bundle-windows-x86-20130729\items\markets_workspace\Flags Quiz\.metadata\.plugins\org.eclipse.jdt.core
+848856923.index
+4263466730.index
+2775261923.index
+3233749375.index
+1257320140.index
+1538386114.index
+1713252402.index

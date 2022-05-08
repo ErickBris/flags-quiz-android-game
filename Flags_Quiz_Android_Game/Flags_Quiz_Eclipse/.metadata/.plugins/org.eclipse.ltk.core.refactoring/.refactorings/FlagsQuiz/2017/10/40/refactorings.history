@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FlagsQuiz&apos; to &apos;database&apos;&#x0D;&#x0A;- Original project: &apos;FlagsQuiz&apos;&#x0D;&#x0A;- Destination element: &apos;database&apos;&#x0D;&#x0A;- Original element: &apos;FlagsQuiz&apos;" description="Copy file" element1="assets/database/FlagsQuiz" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1506846992703" target="/FlagsQuiz/assets/database" units="0" version="1.0"/>
+</session>
